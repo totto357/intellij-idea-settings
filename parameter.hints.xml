@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.time.LocalDate.parse(text)" />
+        <added pattern="java.time.LocalDateTime.parse(text)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
