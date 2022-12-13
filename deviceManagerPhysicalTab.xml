@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-QV7804ZF8X-YWwilf._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Sony XQ-BC42" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
