@@ -2,6 +2,7 @@
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <JavaCodeStyleSettings>
+    <option name="TEST_NAME_SUFFIX" value="Spec" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="Groovy">
