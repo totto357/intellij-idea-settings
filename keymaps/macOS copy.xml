@@ -70,4 +70,5 @@
   <action id="UsageGrouping.Directory" />
   <action id="UsageGrouping.Package" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="copilot.disposeInlays" />
 </keymap>
