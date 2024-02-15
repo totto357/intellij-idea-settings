@@ -1,0 +1,13 @@
+<templateSet group="Java">
+  <template name="jacxp" value="@JacksonXmlProperty(localName = &quot;$METHOD_NAME$&quot;)" description="JacksonXmlPropertyを設定します" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="jsoninclude" value="@JsonInclude(JsonInclude.Include.NON_DEFAULT)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
