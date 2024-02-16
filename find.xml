@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="すべての場所" />
-    <option name="defaultScopeName" value="すべての場所" />
+    <option name="customScope" value="ファイル '…/backend/src/main/java/jp/co/ishiifood/hanbaidatarenkeiapi/infrastructure/s3/edi/shipment_notification/xml/FreshTradeItemMeasurements.java [hanbai-data-renkei.backend.main]'" />
+    <option name="defaultScopeName" value="ファイル '…/backend/src/main/java/jp/co/ishiifood/hanbaidatarenkeiapi/infrastructure/s3/edi/shipment_notification/xml/FreshTradeItemMeasurements.java [hanbai-data-renkei.backend.main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="すべての場所" />
+    <option name="SEARCH_SCOPE" value="ファイル '…/backend/src/main/java/jp/co/ishiifood/hanbaidatarenkeiapi/infrastructure/s3/edi/shipment_notification/xml/FreshTradeItemMeasurements.java [hanbai-data-renkei.backend.main]'" />
   </component>
 </application>
