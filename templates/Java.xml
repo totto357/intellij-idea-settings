@@ -5,7 +5,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="jsoninclude" value="@JsonInclude(JsonInclude.Include.NON_DEFAULT)" toReformat="false" toShortenFQNames="true">
+  <template name="jsoninclude" value="@JsonInclude(JsonInclude.Include.NON_DEFAULT)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
