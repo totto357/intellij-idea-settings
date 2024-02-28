@@ -1,0 +1,104 @@
+<application>
+  <component name="ui-state">
+    <option name="templatesTreeState">
+      <TreeState>
+        <myExpandedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="Java EE" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="その他" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="クラスベース" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="コメント、Javadoc、メタデータ" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="ジェネリクス" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="式" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="演算子" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="面白い" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Kotlin" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Kotlin" type="cbb8eebc:String" />
+            <item name="クラスベース" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Kotlin" type="cbb8eebc:String" />
+            <item name="コメント、KDoc、メタデータ" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Kotlin" type="cbb8eebc:String" />
+            <item name="宣言" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Kotlin" type="cbb8eebc:String" />
+            <item name="式" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Kotlin" type="cbb8eebc:String" />
+            <item name="演算子" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Kotlin" type="cbb8eebc:String" />
+            <item name="関心" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="XML/HTML" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="プロパティファイル" type="cbb8eebc:String" />
+          </array>
+        </myExpandedPaths>
+        <mySelectedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="下書きテンプレート" type="cbb8eebc:String" />
+          </array>
+        </mySelectedPaths>
+      </TreeState>
+    </option>
+    <option name="scopeType" value="DIRECTORY" />
+    <option name="scopeDescriptor" value="*/Users/totto357/Work/ishiifood/hanbai-data-renkei/backend/src/test/groovy/jp/co/ishiifood/hanbaidatarenkeiapi/infrastructure/s3/edi/shipment_notification" />
+  </component>
+</application>
