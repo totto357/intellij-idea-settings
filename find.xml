@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクトファイル" />
-    <option name="defaultScopeName" value="プロジェクトファイル" />
+    <option name="customScope" value="選択したファイル" />
+    <option name="defaultScopeName" value="選択したファイル" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="プロジェクトファイル" />
+    <option name="SEARCH_SCOPE" value="選択したファイル" />
   </component>
 </application>
