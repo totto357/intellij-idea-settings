@@ -5,11 +5,14 @@
     <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
   </component>
+  <component name="LocalizationStateService">
+    <option name="selectedLocale" value="ja" />
+  </component>
   <component name="Registry">
-    <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
-    <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
-    <entry key="ide.experimental.ui" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" source="SYSTEM" />
+    <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
+    <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
+    <entry key="ide.mac.transparentTitleBarAppearance" value="true" source="SYSTEM" />
+    <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
   </component>
 </application>

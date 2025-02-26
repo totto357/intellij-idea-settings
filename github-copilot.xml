@@ -1,5 +1,12 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
+    <languageAllowList>
+      <map>
+        <entry key="*" value="true" />
+      </map>
+    </languageAllowList>
+    <option name="chatNaturalLanguage" value="日本語" />
+    <option name="selectedCompletionModel" value="gpt-4o-copilot" />
   </component>
 </application>
