@@ -33,6 +33,9 @@
     </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
   </component>
